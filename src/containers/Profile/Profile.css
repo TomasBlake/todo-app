@@ -1,0 +1,13 @@
+.profile-page {
+    display: flex;
+}
+.profile-card {
+    margin: 50px auto;
+    width: 80%;
+    min-height: 600px;
+    height: auto;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(207, 207, 207);
+    box-shadow: 3px 3px 5px -3px rgba(150,150,150,1);
+
+}

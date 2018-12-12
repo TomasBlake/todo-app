@@ -1,0 +1,21 @@
+.welcome-text {
+    margin-top: 100px;
+    font-family: inherit;
+    font-size: 50px;
+    color: rgb(212, 212, 212);
+}
+
+.jumbo-buttons-container {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.jumbo {
+    flex-basis: 70%;
+}
+
+.mainpage {
+    display: flex;
+    justify-content: center;
+}
